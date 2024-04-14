@@ -1,3 +1,4 @@
+# Project Description
  _     _         _       
 | |   (_)       | |      
 | |__  _ _ __ __| |_   _ 
@@ -7,10 +8,7 @@
                     __/ |
                    |___/ 
 
-    by Mehrezat Abbas
-
-
-# Project Description
+     by Mehrezat Abbas
 
 Birdy is a mobile app that turns sound recognition into an outdoor scavenger hunt! The planned app consists of one interface, which allows the user to record audio, see current bird species identification, and access a personal library of previously encountered birds--kind of like a Pokedex. Upon audio input, the app passes the audio file to a Python program via POST request. This program uses BirdNet, a Python-only library for AI bird call recognition, to identify the bird's species and return this information to the app's front-end for display.
 
