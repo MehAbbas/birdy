@@ -1,0 +1,5 @@
+requirements
+
+birdnetlib
+tflite-runtime OR tensorflow
+librosa resampy
